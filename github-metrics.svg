@@ -260,22 +260,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">db.js</span>
-                                <div class="bar" style="width: 70.96799999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">89%</span>
+                                <div class="bar" style="width: 67.28%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">84%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">ticdc</span>
-                                <div class="bar" style="width: 7.231999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
+                                <div class="bar" style="width: 9.664%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">12%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">bolt</span>
-                                <div class="bar" style="width: 1.152%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.128%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">vite-plugin-react-router</span>
+                                <div class="bar" style="width: 1.104%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">bbolt</span>
-                                <div class="bar" style="width: 0.6480000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.6320000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -285,27 +290,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 71.64800000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 72.12%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">90%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Markdown</span>
-                                <div class="bar" style="width: 4.592%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">6%</span>
+                                <div class="bar" style="width: 4.088000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">JSON</span>
+                                <div class="bar" style="width: 1.36%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Go</span>
-                                <div class="bar" style="width: 0.9199999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.9039999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">GitIgnore file</span>
-                                <div class="bar" style="width: 0.728%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">JSON</span>
-                                <div class="bar" style="width: 0.624%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.712%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -314,7 +319,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Feb 2022, 22:12:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 16 Feb 2022, 00:17:23 (timezone Asia/Shanghai) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
